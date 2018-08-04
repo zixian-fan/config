@@ -1,5 +1,4 @@
 boy:
   age: 18
   name: 20
- env:
-  test
+ env: test
